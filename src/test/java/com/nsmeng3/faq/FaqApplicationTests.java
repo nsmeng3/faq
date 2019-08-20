@@ -1,4 +1,4 @@
-package com.nsmeng3.qaq;
+package com.nsmeng3.faq;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

@@ -1,4 +1,4 @@
-package com.nsmeng3.qaq.controller;
+package com.nsmeng3.faq.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
