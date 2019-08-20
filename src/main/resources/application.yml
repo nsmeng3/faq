@@ -6,3 +6,9 @@ github:
   clientId: 76016cdbebbc3cbbe36c
   clientSecret: 09bbf53701801679512d05072eaf2dcf14ebe0a1
   redirectUri: http://localhost/callback
+spring:
+  datasource:
+    url: jdbc:h2:~/h2/faq2
+    username: sa
+    password: 123
+    driver-class-name: org.h2.Driver
