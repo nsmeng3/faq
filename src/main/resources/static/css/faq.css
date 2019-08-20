@@ -11,3 +11,7 @@ body {
     float: right;
     margin-bottom: 15px;
 }
+
+.media-object {
+    width: 40px;
+}
